@@ -65,7 +65,7 @@ const Home = () => (
     className="rounded-full w-[239px] h-[279px] object-cover" 
   />
 </div>
-    <h2 style={{paddingTop:'10px'}} className="text-4xl font-bold mt-4">Welcome  
+    <h2 style={{paddingTop:'10px',color:'lightgray'}} className="text-4xl font-bold mt-4">Welcome  
       {' '}
       <span style={{color:'blue' , fontWeight:'bold'}}>
       <Typewriter
@@ -81,7 +81,7 @@ const Home = () => (
     
 
     </h2>
-    <h1 className="text-2xl font-bold" style={{paddingTop:'10px'}}>
+    <h1 className="text-2xl font-bold" style={{paddingTop:'10px',color:'lightgray'}}>
       Hi, I am{' '}
       <span style={{ color: 'blue', fontWeight: 'bold' }}>
         <Typewriter
