@@ -62,7 +62,7 @@ const Home = () => (
   <Image 
     src={boyz} 
     alt="Boyz" 
-    className="rounded-full w-[219px] h-[259px] object-cover" 
+    className="rounded-full w-[239px] h-[279px] object-cover" 
   />
 </div>
     <h2 style={{paddingTop:'10px'}} className="text-4xl font-bold mt-4">Welcome  
