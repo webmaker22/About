@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Typewriter } from 'react-simple-typewriter'
-import myBackground from './p11.jpg'; // adjust path based on your folder
+import myBackground from './p13.jpg'; // adjust path based on your folder
 import TechCarousel from "./TechCarousel";
 import { Home as HomeIcon, User, Layers, Mail } from 'lucide-react';
 
