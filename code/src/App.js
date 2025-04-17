@@ -143,7 +143,7 @@ const About = () => (
   <li style={{marginLeft:'13px',paddingTop:'10px'}}>🌐 Web Development & Maintenance</li>
   <li  style={{marginLeft:'10px',paddingTop:'5px'}}>🛠️ Technical Support & IT Consulting</li>
   <li style={{marginRight:'50px',paddingTop:'5px'}}>📊 Business & HR Consulting</li>
-  <li style={{marginLeft:'20px',paddingTop:'5px'}}>🔧 Human Resources (HR) Outsourcing</li>
+  <li style={{marginLeft:'20px',paddingTop:'5px',textAlign:'center'}}>🔧 Human Resources (HR) Outsourcing</li>
 </ul>
 
 
