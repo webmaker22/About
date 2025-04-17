@@ -134,7 +134,7 @@ const About = () => (
 <br />
 
 <p className="font-bold">
-  With over 15 years of combined team experience, we've supported businesses in Software Development, Fintech, EdTech, and Consulting sectors.
+  With over 1 years of combined team experience, we've supported businesses in Software Development, Fintech, EdTech, and Consulting sectors.
 </p>
 <p className="font-bold">I’m here to help YOU succeed in the digital landscape.</p>
 
