@@ -167,7 +167,7 @@ const Sites = () => (
   </motion.div>
 );
 const Contact = () => (
-  <motion.div id="contact" initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="p-10 text-center min-h-screen flex flex-col justify-center" style={{backgroundColor:'midnightblue'}}>
+  <motion.div id="contact" initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="p-10 text-center min-h-screen flex flex-col justify-center" style={{backgroundColor:'royalblue'}}>
     <h2 className="text-4xl font-bold">Contact Me</h2>
     <p className="mt-4 text-gray-600 font-bold">Feel free to reach out through my email or social media.</p>
      <div className=" p-6 text-center rounded-md">
